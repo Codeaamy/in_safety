@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "520991116541",
+    "project_id": "insafety-104d9",
+    "storage_bucket": "insafety-104d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520991116541:android:ba146ef39e7b9624c64294",
+        "android_client_info": {
+          "package_name": "com.codeaamy.insafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520991116541-aef27akkfomp0e77lnn1vao9iv07qspp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqkVWQi1yTScmFCIPxfcYM0fbAprHUQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520991116541-aef27akkfomp0e77lnn1vao9iv07qspp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520991116541-0banoqeboeol6houneptupvli547eupf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codeaamy.insafety"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

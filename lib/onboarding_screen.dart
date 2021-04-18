@@ -286,23 +286,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 ),
               ),
             ),
-//            Align(
-//              alignment: Alignment.bottomLeft,
-//              child: Padding(
-//                padding: const EdgeInsets.all(25.0),
-//                child: FlatButton(
-//                  onPressed: () {
-//                    liquidController.jumpToPage(
-//                        page:
-//                        liquidController.currentPage + 1 > pages.length - 1
-//                            ? 0
-//                            : liquidController.currentPage + 1);
-//                  },
-//                  child: Text("Next"),
-//                  color: Colors.white.withOpacity(0.01),
-//                ),
-//              ),
-//            )
+
           ],
         ),
       ),
@@ -312,7 +296,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
   pageChangeCallback(int lpage) {
     setState(() {
       page = lpage;
-      print("jsbjkhsdbfjhsdbfjshfbs $lpage");
     });
   }
 }
